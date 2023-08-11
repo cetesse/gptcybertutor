@@ -23,7 +23,7 @@ Welcome to the documentation for the GPT Cyber Tutor. This app is designed to he
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/my-study-assistant.git](https://github.com/berniefusioncyber/gptcybertutor.git)
+   git clone https://github.com/berniefusioncyber/gptcybertutor.git
    ```
 
 2. Install the required packages:
