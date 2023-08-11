@@ -24,7 +24,6 @@ Welcome to the documentation for the GPT Cyber Tutor. This app is designed to he
 
    ```bash
    git clone https://github.com/berniefusioncyber/gptcybertutor.git
-   cd my-study-assistant
    ```
 
 2. Install the required packages:
