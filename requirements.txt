@@ -1,0 +1,6 @@
+Flask==2.1.1
+langchain==0.0.262
+python-dotenv==1.0.0
+slack_bolt==1.18.0
+slack_sdk==3.21.3
+chromadb
