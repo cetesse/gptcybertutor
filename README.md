@@ -12,7 +12,7 @@ Welcome to the documentation for the GPT Cyber Tutor. This app is designed to he
   - [Interacting with the App](#interacting-with-the-app)
 - [Extending the App](#extending-the-app)
   - [Adding More Study Options](#adding-more-study-options)
-- [Future Development](#future-development)
+- [Future Development](#future-development-potential-steps)
 - [Contributing](#contributing)
 - [License](#license)
 
