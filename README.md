@@ -45,7 +45,7 @@ Welcome to the documentation for the GPT Cyber Tutor. This app is designed to he
    OPENAI_API_KEY=your_openai_api_key
    ```
 
-   Replace `your_slack_bot_token`, `your_slack_signing_secret`, `your_slack_bot_user_id`, and `your_openai_api_key` with your actual credentials.
+   Replace `your_slack_bot_token`, `your_slack_signing_secret`, `your_slack_bot_user_id`, and `your_openai_api_key` with the actual bot credentials.
 
 ## Usage
 
@@ -57,7 +57,7 @@ To run the app, execute the following command:
 python app.py
 ```
 
-This will start the Flask development server, at `http://127.0.0.1:5000/`. Now either host a forwarding address using ngrok or other services to connect deploy application.
+This will start the Flask development server, at `http://127.0.0.1:5000/`. Now either host a forwarding address using ngrok or other services to connect and deploy application.
 
 ```bash
 ngrok http 5000
